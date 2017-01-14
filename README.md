@@ -12,7 +12,7 @@ Do add it as a dependency to an existing CocoaPod:
 
 # Building
 
-For the pod to build correctly, please make sure cmake is available from command line, by running `cmake` command. If not, you can install it with [Homebrew](http://brew.sh):
+For the pod to build correctly, please make sure **cmake** is available from command line, by running `cmake` command. You can install it with [Homebrew](http://brew.sh):
 
 `brew install cmake`
 
