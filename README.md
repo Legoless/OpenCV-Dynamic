@@ -4,11 +4,11 @@ This is a placeholder repository for [OpenCV](http://opencv.org) framework built
 
 To add it to your project:
 
-`pod 'OpenCV-Dynamic'`
+`pod 'OpenCV-Dynamic', '~> 3.2'`
 
 Do add it as a dependency to an existing CocoaPod:
 
-`spec.dependency 'OpenCV-Dynamic'`
+`spec.dependency 'OpenCV-Dynamic', '~> 3.2'`
 
 Contact
 ======
