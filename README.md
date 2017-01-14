@@ -10,6 +10,12 @@ Do add it as a dependency to an existing CocoaPod:
 
 `spec.dependency 'OpenCV-Dynamic'`
 
+# Building
+
+For the pod to build correctly, please make sure cmake is available from command line, by running `cmake` command. If not, you can install it with [Homebrew](http://brew.sh):
+
+`brew install cmake`
+
 Author
 ======
 
