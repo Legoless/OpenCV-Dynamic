@@ -23,3 +23,5 @@ License
 ======
 
 **OpenCV-Dynamic** is available under the **3-clause BSD** license. See [LICENSE](https://github.com/Legoless/OpenCV-Dynamic/blob/master/LICENSE) file for more information.
+
+Also respect [OpenCV License](https://github.com/opencv/opencv/blob/master/LICENSE) and conditions.
