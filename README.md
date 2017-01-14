@@ -9,3 +9,17 @@ To add it to your project:
 Do add it as a dependency to an existing CocoaPod:
 
 `spec.dependency 'OpenCV-Dynamic'`
+
+Contact
+======
+
+Dal Rupnik
+
+- [legoless](https://github.com/legoless) on **GitHub**
+- [@thelegoless](https://twitter.com/thelegoless) on **Twitter**
+- [dal@unifiedsense.com](mailto:dal@unifiedsense.com)
+
+License
+======
+
+**OpenCV-Dynamic** is available under the **3-clause BSD** license. See [LICENSE](https://github.com/Legoless/OpenCV-Dynamic/blob/master/LICENSE) file for more information.
