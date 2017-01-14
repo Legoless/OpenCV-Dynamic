@@ -8,9 +8,9 @@ To add it to your project:
 
 Do add it as a dependency to an existing CocoaPod:
 
-`spec.dependency 'OpenCV-Dynamic', '~> 3.2'`
+`spec.dependency 'OpenCV-Dynamic'`
 
-Contact
+Author
 ======
 
 Dal Rupnik
