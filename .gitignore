@@ -2,6 +2,8 @@
 .DS_Store
 
 ## Build generated
+ios/
+opencv2.framework/
 build/
 DerivedData
 
