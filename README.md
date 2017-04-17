@@ -16,6 +16,8 @@ For the pod to build correctly, please make sure **cmake** is available from com
 
 `brew install cmake`
 
+Same as [OpenCV](http://opencv.org), Python is required to build the framework (shipped with macOS).
+
 Author
 ======
 
