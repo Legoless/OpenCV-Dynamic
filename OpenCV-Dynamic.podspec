@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name             = 'OpenCV-Dynamic'
-    s.version          = '4.0.0-alpha'
+    s.version          = '4.0.0-alpha1'
     s.summary          = 'OpenCV (Computer Vision) for iOS as a dynamic framework.'
 
     s.description      = <<-DESC
@@ -41,7 +41,7 @@ OpenCV: open source computer vision library
     s.prepare_command = <<-CMD
         git submodule init
         git submodule update
-        python opencv/platforms/ios/build_framework.py ios --dynamic
+        /usr/bin/python opencv/platforms/ios/build_framework.py ios --dynamic
         cp -a ./ios/opencv2.framework ./opencv2.framework
     CMD
 end
